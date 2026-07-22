@@ -1,1 +1,66 @@
+PRIVACY POLICY FOR FEEDME
 
+Last updated: July 2026
+
+FeedMe ("the app," "we," "us") is a food and drink discovery app that lets people log, rate, and rediscover restaurants and bars. This policy explains what information the app collects, how it's used, and the choices you have.
+
+
+INFORMATION WE COLLECT
+
+Account information
+When you create an account, we collect your email address and a display name. Authentication is handled by Supabase; your password is never stored or visible to us in plain text.
+
+Content you add
+Spots you log (name, category, location, price level), reviews and ratings you write, photos you upload (of places, food, and menus), your favorites and wishlist, and any dietary restrictions you choose to save to your profile.
+
+Location
+If you use the "Find Me" feature, the app requests your device's location to center the map and find nearby spots. Location access is optional and only used while you're actively using that feature — we do not track or store a location history.
+
+Usage data
+Basic technical information needed to operate the app (e.g., error logs), collected through our backend provider (Supabase).
+
+
+HOW WE USE INFORMATION
+
+- To operate your account and let you sign in
+- To display the spots, reviews, and photos you and other users add
+- To calculate reviewer credibility scores based on community votes
+- To show relevant results when you search for places (via Google Maps/Places)
+- To warn you if a spot doesn't list options matching dietary restrictions you've saved
+
+
+THIRD-PARTY SERVICES
+
+Supabase — hosts our database, authentication, and file storage
+Google Maps / Places API — powers the map, geocoding, and place search
+
+These providers may process data on our behalf under their own privacy and security terms.
+
+
+DATA SHARING
+
+We do not sell your data. Reviews, ratings, spot listings, and photos you submit are visible to other users of the app, since FeedMe is a shared, community-sourced map. Your email address is never shown to other users.
+
+
+YOUR CHOICES
+
+Edit or remove content you've added (spots, reviews, photos) from within the app.
+
+Update your dietary restrictions at any time in your account settings.
+
+Delete your account at any time from the Account screen. This permanently removes your profile, reviews, favorites, and wishlist. Spots you added remain on the shared map for other users but are no longer associated with your account. This cannot be undone.
+
+
+CHILDREN'S PRIVACY
+
+FeedMe is not directed at children under 13, and we do not knowingly collect information from children under 13.
+
+
+CHANGES TO THIS POLICY
+
+We may update this policy from time to time. Changes will be posted here with an updated "Last updated" date.
+
+
+CONTACT
+
+Questions about this policy or your data? Email us at freddeeriksen@gmail.com.
